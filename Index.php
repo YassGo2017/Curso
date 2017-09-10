@@ -1,7 +1,1 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Lab2Ies
- * Date: 13/08/2017
- * Time: 15:38
- */
+<a href="controlador/ClienteControlador.php">Ir al controlador de clientes</a>
